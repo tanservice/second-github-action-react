@@ -1,4 +1,4 @@
-name: Test Project
+name: Demo
 on:
   pull_request:
     types:
